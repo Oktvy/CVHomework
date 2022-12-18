@@ -1,0 +1,25 @@
+body{
+  border:15px solid orange;
+}
+#image{
+  margin: 5px;
+}
+.margin{
+    width:auto;
+    margin: 100px;
+}
+.page{
+    width: 100%;  
+}
+.details{
+    border-bottom: 5px solid black;
+}
+.name{
+    text-align: right;
+}
+
+.date{
+    color: white;
+    background-color: black;
+    float: right;
+}
